@@ -1,0 +1,141 @@
+.box-0 {
+    width:500px;
+    height: 500px;
+    background-color: #3c4470;
+    margin:50px auto;
+    border-radius: 100%;
+    }
+    
+    .box-2 {
+        width:500px;
+        height: 500px;
+        background-color: #f151af;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-3 {
+        width:500px;
+        height: 500px;
+        background-color: #cc3f6e;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-4 {
+        width:500px;
+        height: 500px;
+        background-color: #ff004c;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-5 {
+        width:500px;
+        height: 500px;
+        background-color: #66ff00;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    .box-6 {
+        width:500px;
+        height: 500px;
+        background-color: #00a2ff;
+        margin:50px auto;
+        border-radius: 100%;
+    
+    }
+    .box-7 {
+        width:500px;
+        height: 500px;
+        background-color: #1e28b8;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    .box-8 {
+        width:500px;
+        height: 500px;
+        background-color: #5b6e2d;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-9 {
+        width:500px;
+        height: 500px;
+        background-color: #e28b07;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-10{
+        width:500px;
+        height: 500px;
+        background-color: #e73414;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    .box-11 {
+        width:500px;
+        height: 500px;
+        background-color: #9b187a;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-12 {
+        width:500px;
+        height: 500px;
+        background-color: #b97189;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    .box-13 { 
+        width:500px;
+        height: 500px;
+        background-color: #918a4d;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    .box-14 {
+        width:500px;
+        height: 500px;
+        background-color: #8a6b88;
+        margin:50px auto;
+    border-radius: 100%;
+
+    }
+    
+    
+    .btn {
+        background: #3498db;
+        border-radius: 28px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        margin: 20px 180px 20px 200px;
+        border: 0;
+    }
+    
+    .text {
+        font-family: Arial;
+        text-align:center;
+        font-size: 2.5rem;
+        font-weight: 700;
+        padding-top: 200px;
+        color: rgb(41, 31, 31);
+    }
